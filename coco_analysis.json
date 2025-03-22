@@ -1,0 +1,29 @@
+{
+    "total_images_all_splits": 993,
+    "splits": [
+        {
+            "split": "train",
+            "total_images": 695,
+            "images_with_annotations": 135,
+            "images_without_annotations": 560,
+            "percent_with_annotations": 19.42,
+            "percent_without_annotations": 80.58
+        },
+        {
+            "split": "val",
+            "total_images": 99,
+            "images_with_annotations": 21,
+            "images_without_annotations": 78,
+            "percent_with_annotations": 21.21,
+            "percent_without_annotations": 78.79
+        },
+        {
+            "split": "test",
+            "total_images": 199,
+            "images_with_annotations": 32,
+            "images_without_annotations": 167,
+            "percent_with_annotations": 16.08,
+            "percent_without_annotations": 83.92
+        }
+    ]
+}
