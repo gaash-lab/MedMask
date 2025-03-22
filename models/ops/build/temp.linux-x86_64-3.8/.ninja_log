@@ -1,0 +1,4 @@
+# ninja log v5
+0	8922	1732438056067571638	/home/suhaib/Research/fusion/D-MASTER/models/ops/build/temp.linux-x86_64-3.8/home/suhaib/Research/fusion/D-MASTER/models/ops/src/cpu/ms_deform_attn_cpu.o	8d4948e3bbeb4ded
+0	18093	1732438065239519768	/home/suhaib/Research/fusion/D-MASTER/models/ops/build/temp.linux-x86_64-3.8/home/suhaib/Research/fusion/D-MASTER/models/ops/src/cuda/ms_deform_attn_cuda.o	1d5e15179c9000c9
+1	24558	1732438071687483582	/home/suhaib/Research/fusion/D-MASTER/models/ops/build/temp.linux-x86_64-3.8/home/suhaib/Research/fusion/D-MASTER/models/ops/src/vision.o	e82ec913b07e76c4
